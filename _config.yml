@@ -1,0 +1,10 @@
+# Site settings
+title: Minimal Mistakes TOC Test
+
+# Build settings
+markdown: kramdown
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
